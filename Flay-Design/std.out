@@ -1,0 +1,4 @@
+WARNING: Workstation service not found
+Workstation service must be installed and started.
+Please refer to your Microsoft documentation or hardware vendor for assistance.
+Failed to initialize communications.  Some features are disabled.
